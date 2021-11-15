@@ -1,4 +1,3 @@
-
 name: arip
 
 on: workflow_dispatch
@@ -42,4 +41,3 @@ jobs:
       run: cmd /c start.bat
     - name: RDP telah berhasil dibuat!!! Jangan lupa subrek Xp Channel
       run: cmd /c loop.bat
-	
